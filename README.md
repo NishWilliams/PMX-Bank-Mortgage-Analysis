@@ -18,7 +18,7 @@ As an analyst for PMX Bank, you are tasked with validating data, preparing analy
 | Value of Mortgages by Region | Total dollar value of all mortgages per region | $ |
 | Delinquent Mortgages by Region | Count of mortgage clients marked as delinquent per region | # |
 
-[View Tableau Dashboard](#)(https://public.tableau.com/app/profile/nishanee.williams/viz/PMXBankMortgagePerformanceDashboard/Dashboard1)
+[View Tableau Dashboard](https://public.tableau.com/app/profile/nishanee.williams/viz/PMXBankMortgagePerformanceDashboard/Dashboard1) 
 
 ## 🛠️ Tech Stack
 - **Tableau** – visualization & dashboard creation  
@@ -105,4 +105,4 @@ This project is based on the PMX Bank Mortgage Analysis assignment provided as p
 
 ---
 
-![PMX Bank Mortgage Dashboard](#) <!-- Replace # with your Tableau Public screenshot link -->
+![PMX Bank Mortgage Dashboard](https://raw.githubusercontent.com/NishWilliams/PMX-Bank-Mortgage-Analysis/main/reources/PMX%20Bank%20.png)
